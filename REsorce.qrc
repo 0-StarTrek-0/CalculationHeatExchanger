@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/pref">
+        <file>Image/heat.png</file>
+        <file>Image/LogoNII.gif</file>
+        <file>Image/free-icon-add-6853377.png</file>
+        <file>Image/free-icon-audit-4592965.png</file>
+        <file>Image/free-icon-clipboard-verification-outlined-sign-58426.png</file>
+        <file>Image/free-icon-cold-3815125.png</file>
+        <file>Image/free-icon-font-angle-left-3916912.png</file>
+        <file>Image/free-icon-font-angle-right-3916907.png</file>
+        <file>Image/free-icon-font-broom-3917053.png</file>
+        <file>Image/free-icon-font-comment-exclamation-8034722.png</file>
+        <file>Image/free-icon-font-disk-3917394.png</file>
+        <file>Image/free-icon-font-file-3917373.png</file>
+        <file>Image/free-icon-font-folder-3917537.png</file>
+        <file>Image/free-icon-font-question-square-7931050.png</file>
+        <file>Image/free-icon-font-settings-3917058.png</file>
+        <file>Image/free-icon-font-sign-in-alt-5528136.png</file>
+        <file>Image/free-icon-hot-temperature-3814951.png</file>
+        <file>Image/free-icon-list-137932.png</file>
+        <file>Image/free-icon-nu-10025058.png</file>
+        <file>Image/free-icon-thermometer-2426704.png</file>
+        <file>Image/free-icon-thermometer-2426721.png</file>
+        <file>Image/free-icon-underfloor-heating-6165160.png</file>
+        <file>Image/free-icon-font-play-3917517.png</file>
+    </qresource>
+</RCC>
